@@ -18,8 +18,9 @@
 
 ## 📷 Prints
 
-![img](./src/img/desktop.png) ![img](./src/img/desktop2.png)
-![img](./src/img/mobile.png) ![img](./src/img/mobile2.png) ![img](./src/img/mobile.png)
+![img](./src/img/desktop.png)![img](./src/img/desktop2.png)
+
+![img](./src/img/mobile.png)![img](./src/img/mobile2.png)![img](./src/img/mobile.png)
 
 
 ## 🛠 Tecnologias
@@ -40,6 +41,7 @@ Feito com ❤️ by Gustavo Souza. 👋 [Entrar em contato](https://www.linkedin
 - Frontend Mentor - [@Gustavo-Victor](https://www.frontendmentor.io/profile/Gustavo-Victor)
 - CodePen - [@gustavo_victor](https://codepen.io/gustavo_victor)
 - Linkedin - [@gustavo-victor](https://www.linkedin.com/in/gustavo-victor-575b93206/)
+
 
 ## 📝 Licença 
 
